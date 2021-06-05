@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I'm a Cinephile**
 
-![GIF](https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readme%20gif.gif)
+![GIF](https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readmegif.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
