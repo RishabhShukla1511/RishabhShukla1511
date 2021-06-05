@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhshukla1511&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhshukla1511" /> </p>
-
 <p align="center">
   <img src="https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readmegif.gif" alt="animated" />
 </p>
 
 - 👨‍🎓 I'm a pre-final year computer science undergraduate at IIIT Vadodara  
 
-- 🤵 Currently, I am working as an SDE Intern at Merkle Sokrati  
+- 🤵 Currently, I'm working as an SDE Intern at Merkle Sokrati  
 
 - 👯 I’m looking to collaborate on [Watch Your Steps](https://github.com/RishabhShukla1511/WatchYourSteps.github.io)
 
