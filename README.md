@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhshukla1511&theme=algolia&show_icons=true&locale=en&layout=compact" alt="rishabhshukla1511" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhshukla1511&theme=algolia&show_icons=true" alt="rishabhshukla1511" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rishabhshukla1511&theme=algolia&show_icons=true" alt="rishabhshukla1511" /></p>
