@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
-
-<p align="center">
-  <img src="https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readmegif.gif" alt="animated" />
-</p>
-
+<br>
+<p>
+  <img src="https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readmegif.gif" alt="animated" align="right"/>
+    
 - 👨‍🎓 I'm a pre-final year computer science undergraduate at IIIT Vadodara  
 
 - 🤵 Currently, I'm working as an SDE Intern at Merkle Sokrati  
@@ -16,6 +15,7 @@
 - 📫 How to reach me **shuklarishabh356@gmail.com**
 
 - ⚡ Fun fact **I'm a Cinephile**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
