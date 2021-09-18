@@ -4,7 +4,7 @@
 <p>
   <img src="https://github.com/RishabhShukla1511/RishabhShukla1511/blob/main/readmegif.gif" alt="animated" align="right"/>
     
-- 👨‍🎓 I'm a pre-final year computer science undergraduate at IIIT Vadodara  
+- 👨‍🎓 I'm a final year computer science undergraduate at IIIT Vadodara  
 
 - 🤵 Currently, I'm working as an SDE Intern at Merkle Sokrati  
 
